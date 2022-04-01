@@ -1,0 +1,7 @@
+cpu_vcpus;memory;storage_ssd_disk;bandwith_transfer;price_by_month
+1vCPU;1GB;25GB;1TB;$5
+1vCPU;2GB;50GB;2TB;$10
+2vCPUs;2GB;60GB;3TB;$15
+2vCPUs;4GB;80GB;4TB;$20
+4vCPUs;8GB;160GB;5TB;$40
+8vCPUs;16GB;320GB;6TB;$80
